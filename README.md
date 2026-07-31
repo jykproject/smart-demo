@@ -1,0 +1,2 @@
+# smart-demo
+go project
